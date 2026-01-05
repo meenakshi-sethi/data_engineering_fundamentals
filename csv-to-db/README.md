@@ -43,7 +43,7 @@ Before running this project, ensure you have:
 
 ### Required Software
 
-- **Python 3.8+** installed on your system
+- **Python 3.8+** installed on your system.
 - **Docker Desktop** installed and running
 - **PostgreSQL Docker Container** running
   ```bash
